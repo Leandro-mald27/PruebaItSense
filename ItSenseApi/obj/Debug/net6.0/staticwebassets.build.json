@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bdiv5H2GwZGWKWunyKduA3lDtgt3NPIyqjuF2sOWWVc=",
+  "Source": "ItSenseApi",
+  "BasePath": "_content/ItSenseApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
